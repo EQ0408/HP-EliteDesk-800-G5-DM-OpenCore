@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### macOS
 
@@ -55,10 +55,21 @@
 
 ### 注意事项
 
- - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 安装成功后必须使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
  - 此EFI中的AirportItlwm.kext驱动仅适配MacOS 13 Ventura版本
  - 安装macOS 14 Sonoma请自行替换适合14版本的AirportItlwm.kext驱动
 
+### 参考内容
+
+[1.黑苹果安装过程演示](https://hackintosh.club/d/10000060)
+
+[2.英特尔无线网卡WiFi驱动](https://hackintosh.club/d/10000015)
+
+[3.英特尔无线网卡蓝牙驱动](https://hackintosh.club/d/10000017)
+
+[4.我的B站黑苹果教程](https://space.bilibili.com/244390800/video)
+
+[6.黑果之家](https://hackintosh.club/)
 
 ### 联系我们
 
